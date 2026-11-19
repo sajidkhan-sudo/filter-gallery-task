@@ -1,0 +1,42 @@
+   .box > div {
+     height: 250px;
+     border-radius: 10%;
+    }
+   .box.blueviolet > div{
+      background-color: blueviolet;
+   }
+
+  .box.orange > div {
+      background-color: orange;
+    }
+
+  .box.yellowgreen > div {
+       background-color: yellowgreen;
+   }
+        
+  .box.hotpink > div {
+     background-color: hotpink;
+    }
+
+
+
+  .feedinfo > div > img{
+     height: 300px;
+            
+  }
+
+  .actorsinfo > img {
+  height: 300px;
+ }
+
+
+  .carsinfo > img {
+    height: 300px;
+  }
+
+  .bikeinfo > img {
+    height: 350px;
+  }
+
+        
+    
